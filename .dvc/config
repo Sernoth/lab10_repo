@@ -1,0 +1,5 @@
+[core]
+    remote = storage
+['remote "storage"']
+    url = ssh://twardowskim@ssh.mini.pw.edu.pl:/home/samba/twardowskim/unix_git
+    user = twardowskim
