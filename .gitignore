@@ -1,0 +1,11 @@
+# Configuration and Sensitive Data
+.env
+
+# Data and Models (DVC will manage these folders)
+/data/
+/models/
+
+# Python Cache Files
+__pycache__/
+*.pyc
+
